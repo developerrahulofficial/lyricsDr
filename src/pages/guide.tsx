@@ -12,7 +12,7 @@ export default function Guide() {
     <Layout>
       <section className="mt-4 flex w-full flex-col items-center justify-center p-2 md:w-2/3 lg:w-1/2">
         <h2 className="bg-gradient-to-r from-pink-400 to-violet-400 bg-clip-text text-[5rem] font-black text-transparent md:text-[7rem]">
-          lyrist
+          lyricsDr
         </h2>
         <p className="text-center text-base text-pink-100 md:text-lg">
           a simple and easy to use RESTful lyrics API that just works, please note that you can only make 150 requests per hour to prevent abuse of the API.
